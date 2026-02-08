@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": "3c63",
+      "email": "test@example.com",
+      "password": "0987lkjh",
+      "firstName": "Akash",
+      "lastName": "G",
+      "gender": "Male",
+      "hobbies": [
+        "Reading"
+      ]
+    },
+    {
+      "id": "3800",
+      "email": "giri@gmail.com",
+      "password": "asdf123",
+      "firstName": "Girish ",
+      "lastName": "K",
+      "gender": "Male",
+      "hobbies": [
+        "Travelling"
+      ]
+    },
+    {
+      "id": "7f96",
+      "email": "sana@gmail.cm",
+      "password": "12345678@",
+      "firstName": "Sahana",
+      "lastName": "S",
+      "gender": "Female",
+      "hobbies": [
+        "Travelling",
+        "Music"
+      ]
+    }
+  ]
+}
